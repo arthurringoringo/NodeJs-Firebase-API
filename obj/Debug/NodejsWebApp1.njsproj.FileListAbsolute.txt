@@ -1,0 +1,6 @@
+D:\Projek_16 Caroline\WEB\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsprojAssemblyReference.cache
+D:\Projek_16 Caroline\WEB\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsproj.CoreCompileInputs.cache
+D:\Projek_16 Caroline\WEB\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\iRael\Desktop\NODEJS IOT\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsprojAssemblyReference.cache
+C:\Users\iRael\Desktop\NODEJS IOT\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsproj.CoreCompileInputs.cache
+C:\Users\iRael\Desktop\NODEJS IOT\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
