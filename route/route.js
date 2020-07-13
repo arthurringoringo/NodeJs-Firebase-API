@@ -57,6 +57,7 @@ router.post('/data/post', (req, res) => {
         NIM: req.body.NIMorNIDN,
         Status: req.body.Status,
         Waktu: req.body.Waktu,
+        IDBarang: req.body.id_barang,
         Time: new Date()
     })
     res.send({
@@ -66,6 +67,7 @@ router.post('/data/post', (req, res) => {
         NIM: req.body.NIMorNIDN,
         Status: req.body.Status,
         Waktu: req.body.Waktu,
+        IDBarang: req.body.id_barang,
         Time: new Date()
     })
 })
